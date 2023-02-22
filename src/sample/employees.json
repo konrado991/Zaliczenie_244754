@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Konrad",
+    "surname": "Kowalski",
+    "email": "123456@gmail.com",
+    "numberId": "1"
+  },
+  {
+    "name": "Bob",
+    "surname": "Marley",
+    "email": "bob32@gmail.com",
+    "numberId": "2"
+  },
+  {
+    "name": "Mariusz",
+    "surname": "Nowak",
+    "email": "nowak456@gmail.com",
+    "numberId": "3"
+  }
+]
